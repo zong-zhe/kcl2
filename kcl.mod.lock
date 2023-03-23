@@ -2,8 +2,8 @@
   [dependencies.kcl3]
     name = "kcl3"
     url = "https://github.com/zong-zhe/kcl3.git"
-    sum = "iOieFmTUdT1vHvTALQMJoaSJKPbeelz4H5HRFOcE0GI="
+    sum = "nazYYac5UogGdbak2ajJr3QTN4C6MTYyiQlsben/yBg="
   [dependencies.kcl4]
     name = "kcl4"
     url = "https://github.com/zong-zhe/kcl4.git"
-    sum = "AvGDDZC3zT4F49UMFdy2FZ6GQUlUIh44BzvfZu3l4uA="
+    sum = "+lyyPaJBNBOp2ffj1ZR4UWe2yQl7pEqvrz38kABGNTo="
