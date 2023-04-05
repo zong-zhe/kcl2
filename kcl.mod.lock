@@ -1,9 +1,14 @@
 [dependencies]
   [dependencies.kcl3]
     name = "kcl3"
+    full_name = "kcl3_v0.0.4"
+    version = "v0.0.4"
+    sum = "up/FDUhRNnbDhJmFObUQCJ0s28LToEOtzNn5rmf1s5o="
     url = "https://github.com/zong-zhe/kcl3.git"
-    sum = "nazYYac5UogGdbak2ajJr3QTN4C6MTYyiQlsben/yBg="
+    tag = "v0.0.4"
   [dependencies.kcl4]
     name = "kcl4"
+    full_name = "kcl4_v0.0.1"
+    sum = "1bnATOzkVVjpVV7xcOP6OTGPShIvxdkImEzcM/oTQ8A="
     url = "https://github.com/zong-zhe/kcl4.git"
-    sum = "+lyyPaJBNBOp2ffj1ZR4UWe2yQl7pEqvrz38kABGNTo="
+    tag = "v0.0.1"

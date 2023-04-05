@@ -1,14 +1,8 @@
 [package]
-  name = "kcl2"
-  edition = "0.0.1"
-  version = "0.0.1"
+name = "kcl2"
+edition = "0.0.1"
+version = "0.0.4"
 
 [dependencies]
-  [dependencies.kcl3]
-    name = "kcl3"
-    url = "https://github.com/zong-zhe/kcl3.git"
-    sum = "nazYYac5UogGdbak2ajJr3QTN4C6MTYyiQlsben/yBg="
-  [dependencies.kcl4]
-    name = "kcl4"
-    url = "https://github.com/zong-zhe/kcl4.git"
-    sum = "+lyyPaJBNBOp2ffj1ZR4UWe2yQl7pEqvrz38kABGNTo="
+kcl3 = { git = "https://github.com/zong-zhe/kcl3.git", tag = "v0.0.4" }
+kcl4 = { git = "https://github.com/zong-zhe/kcl4.git", tag = "v0.0.1" }
